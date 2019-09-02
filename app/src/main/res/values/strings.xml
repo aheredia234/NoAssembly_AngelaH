@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tools</string>
+    <string name="txtStart">Start</string>
+    <string name="txtIKEA">Tools for IKEA dresser</string>
+    <string name="txtBike">Tools for a bike</string>
+    <string name="txtPatio">Tools for wood patio</string>
+    <string name="txtBtnNext">Next</string>
+    <string name="txtSelect">Select which project you would like to know the needed tools for</string>
+    <string name="txtIkeaTitle">Tools needed for an IKEA dresser</string>
+    <string name="txtIkeaTools">Allen Wrench <br /> Screw Driver <br /> Hammer <br /> Screws</string>
+    <string name="txtBikeTitle">Tools needed for a bike</string>
+    <string name="txtBikeTools">Hex Wrench <br /> Pedal Wrench <br /> Cable Cutters <br />
+    Bike Grease <br /> Tire Pump <br /> Screw Driver</string>
+    <string name="txtPatioTools">Saw <br/> Drill <br/> Screws <br/> Level </string>
+
+</resources>
